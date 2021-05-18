@@ -1,2 +1,4 @@
-server:
-  port: 1111
+dataSource:
+  url: jdbc:mysql:///dev?useUnicode=true&characterEncoding=utf8
+  username: root
+  password: root
