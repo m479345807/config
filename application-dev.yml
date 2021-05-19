@@ -2,3 +2,6 @@ config:
   url: jdbc:mysql:///dev?useUnicode=true&characterEncoding=utf8
   username: root
   password: root
+ip:
+  time: 1
+  count: 5
